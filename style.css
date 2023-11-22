@@ -1,0 +1,11 @@
+/* Add your custom styles here */
+body {
+    padding-top: 56px; /* Adjust according to the height of your navbar */
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Add more styles as needed */
